@@ -56,11 +56,13 @@ public class Main {
         System.out.println("Разница в весе " + differenceWeight + " кг");
 
         // Задача 7
+        System.out.println("Задача 7");
         System.out.println("Разница в весе " + differenceWeight + " кг");
         var differenceWeight2 = (boxer2Weight) % boxer1Weight;
         System.out.println("Разница в весе " + differenceWeight2 + " кг!");
 
         // Задача 8
+        System.out.println("Задача 8");
         var allTimeWork = 640;
         var oneManTimeWork = 8;
         var allMan = allTimeWork / oneManTimeWork;
